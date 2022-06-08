@@ -1,4 +1,4 @@
-use math::linalg::matrix::Matrix;
+use vaml::linalg::matrix::Matrix;
 
 #[test]
 fn test() {
